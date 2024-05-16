@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a02a7cc25b224965a0b2763421376f66, type: 3}
+  m_Name: EnemyData
+  m_EditorClassIdentifier: 
+  Health: 6
+  Speed: 2
+  Damage: 1
+  DamageFrequency: 1
+  SpawnTimePeriodStart: 0
+  SpawnTimePeriodEnd: 999
+  PushBackSpeed: 20
+  ExperiencePoint: {fileID: 6736124456978655339, guid: aa001825a76ac8949a5a29e3945c050d, type: 3}
+  isMiniBoss: 0
+  MiniBossStatMultiplier: 0.5
+  MiniBossExperiencePoint: {fileID: 6736124456978655339, guid: aa001825a76ac8949a5a29e3945c050d, type: 3}

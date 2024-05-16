@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3b5519454d74a07bea1e5ea4e66842f, type: 3}
+  m_Name: EvolvedShipAbilityData
+  m_EditorClassIdentifier: 
+  CooldownSpeed: 7
+  ProjectileSpeed: 15
+  Damage: 6
+  Radius: 0.5
+  KnockBackForce: 1
+  Projectile: {fileID: 5748030209879025068, guid: 82115f8b8d08d9549aa109196352c48c, type: 3}

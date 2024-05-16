@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f28e0e4952304af995cb520399bcfcdb, type: 3}
+  m_Name: LevelUpStorer
+  m_EditorClassIdentifier: 
+  _abilitiesToAdd:
+  - {fileID: 11400000, guid: dd0d4af0ab936d0408fb0301372a3322, type: 2}
+  - {fileID: 11400000, guid: 2fe11480253dad04ba7799d8d5d35231, type: 2}
+  - {fileID: 11400000, guid: ccdc4ed4f7bfb754bae84e3fa22075a9, type: 2}
+  - {fileID: 11400000, guid: 5d6c606f17caa6e4592bfb7e2c9b273b, type: 2}
+  _evolveAbilitiesToAdd: []
+  _swordLevelUps:
+  - {fileID: 11400000, guid: 5db1ee0ab3c891749bfa0691f6f0e8cb, type: 2}
+  - {fileID: 11400000, guid: 5584904ab1103524e8a30a5ceda50d5b, type: 2}
+  - {fileID: 11400000, guid: c5bcfca8cc9448349b9c154425458dd7, type: 2}
+  - {fileID: 11400000, guid: 746a21e9a4181b744a791ab9b94b1c4d, type: 2}
+  _shootLevelUps:
+  - {fileID: 11400000, guid: cbad9c8c448313e43a834dd6678387e3, type: 2}
+  - {fileID: 11400000, guid: df9fc6484e27c7445bc3ab077292160e, type: 2}
+  - {fileID: 11400000, guid: a98d130027bf4634f978ba4521c8b2c6, type: 2}
+  - {fileID: 11400000, guid: 9c3744fd12d0ccd44acdf705bd82469d, type: 2}
+  _cannonLevelUps:
+  - {fileID: 11400000, guid: 83f11d81993bd274b95797f26e8f7aa6, type: 2}
+  - {fileID: 11400000, guid: 07bc500eecbccfb478e1fa73762f4ced, type: 2}
+  - {fileID: 11400000, guid: 76e9cfbf39ff3a242afe02c188288aa0, type: 2}
+  - {fileID: 11400000, guid: 8e8b817ca6df4594b9bba42660a97ffa, type: 2}
+  - {fileID: 11400000, guid: 6086b42ab621e0f48a9af90f9bbe94f8, type: 2}
+  _shipLevelUps:
+  - {fileID: 11400000, guid: 27b6b9c760d2ce4488123dd3c61eb90c, type: 2}
+  - {fileID: 11400000, guid: 205b3e11010a0d5428364dc2dee8ff18, type: 2}
+  - {fileID: 11400000, guid: 99655f1b2ff1e2248ae135bf39ecbe55, type: 2}
+  - {fileID: 11400000, guid: 5bdcd2c04193ed547a6abd426f32ca81, type: 2}
+  - {fileID: 11400000, guid: 29a248eae07730f4ebb73801b023ce83, type: 2}
+  _characterLevelUps:
+  - {fileID: 11400000, guid: b4451cdd0ebd7744d8b463c712f6967d, type: 2}
+  - {fileID: 11400000, guid: 960753c6f776656488989aa7e493e9cf, type: 2}
+  - {fileID: 11400000, guid: dff5975a935017d4783575f9107bd164, type: 2}
+  - {fileID: 11400000, guid: 98e3a301173403042a60649b9bcdf713, type: 2}
+  - {fileID: 11400000, guid: c1bf36cb052518d4c8ed64f7f0ff7238, type: 2}
+  - {fileID: 11400000, guid: 685883ab3e143104b9ce8356e0f5e2c2, type: 2}
+  - {fileID: 11400000, guid: 234a73cdd3a47794283860fc904707b7, type: 2}
+  - {fileID: 11400000, guid: aa5a6b7d59d2d95489b2534f5e386456, type: 2}
+  - {fileID: 11400000, guid: 9eb2a10084b9b4a408851af5acf6088e, type: 2}
